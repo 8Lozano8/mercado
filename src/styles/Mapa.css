@@ -44,9 +44,9 @@
 
 @media (max-width: 480px) {
     .tarjeta-contacto {
-        position: absolute;
-        top: 50%;
-        right: 35%;
-        transform: translate(50%, -50%);
+        margin: 50px auto;
+        position: static;
+        right: auto;
+        transform: none;
     }
 }
