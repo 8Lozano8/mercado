@@ -10,6 +10,16 @@
     margin-bottom: 50px;
 }
 
+.cartas-anuncios-resumen {
+    margin: 50px;
+}
+
+@media (max-width: 1440px) {
+    .contenedor-anuncios-resumen {
+        margin-top: 200px;
+    }
+}
+
 @media (max-width: 768px) {
     .contenedor-anuncios-resumen {
         margin-top: 400px;
