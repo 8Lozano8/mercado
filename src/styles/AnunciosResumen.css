@@ -1,0 +1,22 @@
+.contenedor-anuncios-resumen {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.texto-anuncios {
+    text-align: center;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .contenedor-anuncios-resumen {
+        margin-top: 400px;
+        /* Cambia a 3 columnas en pantallas de tabletas */
+    }
+}
+
+@media (max-width: 480px) {
+    .contenedor-anuncios-resumen {
+        margin-top: 1300px;
+    }
+}

@@ -1,0 +1,16 @@
+.contenedor-mapa {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+.titulo-contacto {
+    font-weight: bold;
+}
+
+.tarjeta-contacto {
+    position: absolute;
+    top: 50%;
+    right: 30%;
+    transform: translate(50%, -50%);
+}
