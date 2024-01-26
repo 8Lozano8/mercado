@@ -44,3 +44,25 @@
         text-align: justify;
     }
 }
+
+@media (max-width: 375px) {
+    .imagen-puesto {
+        width: 350px;
+        margin: 0 auto;
+    }
+
+    .sarita-descripcion{
+        text-align: justify;
+    }
+}
+
+@media (max-width: 320px) {
+    .imagen-puesto {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .sarita-descripcion{
+        text-align: justify;
+    }
+}
