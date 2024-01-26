@@ -1,0 +1,18 @@
+.contenedor-puesto{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.imagen-puesto {
+    height: 250px;
+    margin-right: 50%;
+    margin-left: 30%;
+}
+
+.icono {
+    color: #D1A063;
+}
+
+.sarita-descripcion {
+    margin-top: 10%;
+    margin-bottom: 50%;
+}
