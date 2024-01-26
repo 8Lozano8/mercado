@@ -5,7 +5,7 @@
 .imagen-puesto {
     height: 250px;
     margin-right: 50%;
-    margin-left: 30%;
+    margin-left: 25%;
 }
 
 .icono {
@@ -36,7 +36,8 @@
 
 @media (max-width: 480px) {
     .imagen-puesto {
-        width: 100%;
+        width: 400px;
+        margin: 0 auto;
     }
 
     .sarita-descripcion{
